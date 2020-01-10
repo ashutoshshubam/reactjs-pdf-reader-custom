@@ -27,7 +27,7 @@
 Using build tools:
 
 ```bash
-npm install --save reactjs-pdf-reader
+npm install --save reactjs-pdf-reader-custom
 ```
 Using PDFReader in PC:
 ```js

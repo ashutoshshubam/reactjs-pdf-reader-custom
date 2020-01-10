@@ -1,5 +1,5 @@
 {
-  "name": "@ashutoshshubam/reactjs-pdf-reader-custom",
+  "name": "reactjs-pdf-reader-custom",
   "_inBundle": false,
   "_location": "/reactjs-pdf-reader-custom",
   "_phantomChildren": {
@@ -100,7 +100,7 @@
     "start-prod": "yarn run build && node express.js",
     "test": "jest --watch --coverage --config=configs/jest.json"
   },
-  "version": "1.0.9",
+  "version": "1.1.4",
   "bugs": {
     "url": "https://github.com/ashutoshshubam/reactjs-pdf-reader-custom/issues"
   },
